@@ -31,3 +31,6 @@ function addZeros(num, digit) {// 자릿수 맞춰주기
 	  }
 	  return zero + num;
 }
+
+
+printClock();
